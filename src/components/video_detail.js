@@ -12,7 +12,6 @@ const VideoDetail = ({video}) => {
 		  <div className="embed-responsive embed-responsive-16by9">
 		    <iframe 
 		    	src={url} 
-		    	frameborder="0" 
 		    	className="embed-responsive-item">
 		    </iframe>
 		  </div>
